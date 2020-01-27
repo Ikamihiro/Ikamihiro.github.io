@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Os Novos Desafios"
-date:   2020-01-24 10:23:39
+date:   2020-01-27 10:23:39
 categories: reflexoes
 ---
 # Os Novos Desafios
