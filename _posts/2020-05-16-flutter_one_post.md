@@ -53,7 +53,7 @@ Arquivo **/lib/models/Character.dart**:
 
 ### Criando o provedor dos dados:
 
-A classe **CharacterProvider** fará o acesso ao arquivo JSON. Feito o acesso, ele irá ler os dados e os decodificará para a criação das instâncias da nossa Model. Se quisermos, no futuro, poderemos trocar esse arquivo por um Provider que tirará os dados de uma API. Essa troca não trará muitos problemas no restante dos códigos do aplicativo.
+O arquivo **CharacterProvider** fará o acesso ao arquivo JSON. Feito o acesso, ele irá ler os dados e os decodificará para a criação das instâncias da nossa Model. Se quisermos, no futuro, poderemos trocar esse arquivo por um Provider que tirará os dados de uma API. Essa troca não trará muitos problemas no restante dos códigos do aplicativo.
 
 Arquivo **/lib/models/CharacterProvider.dart**:
 
