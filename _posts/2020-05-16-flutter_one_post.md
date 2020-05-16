@@ -101,7 +101,7 @@ Se tudo ocorreu bem até aqui, a execução será bem sucedida. Se gerar algum e
 
 ![flutter_pubspec.yaml](/assets/image_dependency_flutter.PNG)
 
-Certifique que o nome do projeto que você criou esteja como está na imagem acima, seguindo a norma: **package:<nome_do_seu_projeto>/models...**.
+Certifique que o nome do projeto que você criou esteja como está na imagem acima, seguindo a norma: **package:nome_do_seu_projeto/models...**.
 
 Se surgir, mande sua dúvida no meu email, **joogabrielsntn66@gmail.com**, que eu tentarei ajudar da melhor forma.
 
