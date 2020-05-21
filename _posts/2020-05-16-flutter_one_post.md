@@ -2,7 +2,7 @@
 layout: post
 title:  "Série Flutter - App Flutter com JSON"
 date:   2020-05-16 09:23:39
-categories: others
+categories: tutoriais
 ---
 
 # Como construir um Flutter JSON App
@@ -18,17 +18,17 @@ Para seguir o tutorial é importante ter os seguintes conhecimentos:
 
 Primeiramente, crie um projeto Flutter chamado **jsontest** (ou com o nome que desejar).
 
-Precisamos antes de tudo, adicionar o arquivo JSON no projeto. Para esse tutorial, usaremos esse arquivo: [data.json](/assets/data.json).
+Precisamos antes de tudo, adicionar o arquivo JSON no projeto. Para esse tutorial, usaremos esse arquivo: [data.json](/assets/flutter_one_post/data.json).
 
 Com o arquivo em mãos, adicionemos sua referência no arquivo **pubspec.yaml** desse modo (é interessante criar uma pasta para deixar o arquivo): 
 
-![flutter_pubspec.yaml](/assets/image_pubspec_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_pubspec_flutter.PNG)
 
 Próxima configuração é em relação a disposição das pastas e arquivos. Para este tutorial, iremos separar os códigos em arquivos, identificando e destacando suas respectivas responsabilidades.
 
 Análise a pasta **lib** nessa imagem:
 
-![flutter_pubspec.yaml](/assets/image_directory_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_directory_flutter.PNG)
 
 * Na pasta **lib** ficará todo o nosso código.
 * Na pasta **models** ficaram as nossas classes **Character** e **CharacterProvider**
@@ -49,7 +49,7 @@ A classe **Character** representará os dados do arquivo na nossa aplicação:
 
 Arquivo **/lib/models/Character.dart**:
 
-![flutter_pubspec.yaml](/assets/image_character_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_character_flutter.PNG)
 
 ### Criando o provedor dos dados:
 
@@ -57,7 +57,7 @@ O arquivo **CharacterProvider** fará o acesso ao arquivo JSON. Feito o acesso, 
 
 Arquivo **/lib/models/CharacterProvider.dart**:
 
-![flutter_pubspec.yaml](/assets/image_provider_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_provider_flutter.PNG)
 
 ## Terceira Etapa - Exibir os dados na tela
 
@@ -69,17 +69,17 @@ Dentro da pasta **pages**, criaremos o arquivo **Home.dart**.
 
 Primeiramente, importaremos as bibliotecas necessárias: 
 
-![flutter_pubspec.yaml](/assets/image_dependency_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_dependency_flutter.PNG)
 
 Feito isso, adicionaremos o código necessário para criar uma páginas dinâmica, com o widget **Scaffold()** que já vem com aparência e comportamentos pré-configurados:
 
 (Detalhe para o método **initState()**, onde instanciamos uma lista de **Character** toda vez que a aplicação for iniciada através do método **loadCharacter** que definimos no **CharacterProvider** -- aí é que está a magia)
 
-![flutter_pubspec.yaml](/assets/image_homepage_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_homepage_flutter.PNG)
 
 Dentro do widget **Scaffold()**, adicionaremos o seguinte código:
 
-![flutter_pubspec.yaml](/assets/image_scaffold_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_scaffold_flutter.PNG)
 
 Perceba que não estamos exibindo o JSON diretamente, mas sim uma lista de **Character** que por sua vez foi tirada de um arquivo JSON.Desse modo temos cada arquivo fazendo uma determinada função.
 
@@ -93,13 +93,13 @@ Se você criou o projeto Flutter recentemente, vai encontrar nesse arquivo um c�
 
 Apague ele todo e adicione o seguinte código:
 
-![flutter_pubspec.yaml](/assets/image_main_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_main_flutter.PNG)
 
 ## Pronto!
 
 Se tudo ocorreu bem até aqui, a execução será bem sucedida. Se gerar algum erro,, talvez você tenha que verificar as linhas de importação em cada arquivo.
 
-![flutter_pubspec.yaml](/assets/image_dependency_flutter.PNG)
+![flutter_pubspec.yaml](/assets/flutter_one_post/image_dependency_flutter.PNG)
 
 Certifique que o nome do projeto que você criou esteja como está na imagem acima, seguindo a norma: **package:nome_do_seu_projeto/models...**.
 
