@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Os Novos Desafios"
+date:   2020-07-21 16:07:20
+categories: reflexoes
+---
+
+# A Assembleia de Deus e a Pandemia de COVID-19
+
+Meu nome é João e eu sou cristão. Para quem me conhece, isso não é segredo. Posso dizer, com orgulho, que nasci e cresci dentro da Assembleia de Deus, convivendo desde cedo sob as sombras de grandes homens e mulheres, esses que tanto admiro. Me perdoe caso tenha caído aqui de paraquedas, procurando algum post sobre tecnologia, porque na verdade esse foi o único meio que achei para desabafar sobre a atual situação do mundo e da igreja. E eu não posso ficar calado.
+
+Desde pequeno venho ouvindo histórias bíblicas dos Heróis da Fé e seus grande atos. Eu ouvi sobre Moisés, o cara que abriu o Mar Vermelho; eu ouvi sobre João Batista, o cara que pregava no deserto; eu ouvi também sobre Paulo, o principal agente transmissor do Evangelho nos primórdios da igreja; além de inúmeras outras personagens importantes para o canône bíblico. Não há o que dizer sobre esses caras, pois tudo que eu posso escrever aqui vai ser "mais do mesmo" e se você quiser saber mais, aconselho a ler a Bíblia, pois não há outra fonte que seja mais suficiente e completa do que ela. 
+
+Só que, entretanto, eu também não posso simplesmente ignorar os Heróis que pisaram perto de mim, cujas histórias e exemplos eu pude contemplar por mim mesmo, com os meus próprios olhos. Para minha tristeza, com o coração pesado, eu tive que ver esses Heróis morrerem perto, sem ao menos poder fazer nada. Aliás, fazer nada era o melhor que eu poderia ter feito. Para a minha indignação, eu tive que assistir de casa a irresponsabilidade de muitos membros da igreja custarem a vida desses Heróis. Para a minha completa indignação e tristeza, eu estou tendo que assistir o cinismo desses membros enquanto eles fazem as suas singelas homenagens, enquanto o mundo assiste os que se dizem serem cristãos, empreenderem uma onda de mortes talvez sem precedentes no nosso meio.
+
+E pasmen, enquanto outras igrejas e congregações conservam a saúde e integridade dos seus membros, aquelas que tanto ouvimos críticas por parte dos líderes, a Assembleia conserva, pelo contrário, um pensamento ignorante e inconsequente que só pôde resultar nas mortes desses Heróis cujo papel foi bem mais do que liderar e pregar. É duro para mim escrever isso, porque no fundo eu amo estar na Assembleia e amo ser assembleiano. Faz parte de quem eu sou, de quem somos. Parece que há um abismo entre a geração desses Heróis e a nossa geração; um abismo que separou o conceito de "ser cristão" entre a geração deles e a nossa geração. A pergunta que faço é: onde foi que perdemos? Eu não pergunto o motivo, porque o motivo é bem claro para quem sabe, pois se trata das Profecias acerca da vinda do nosso Senhor Jesus Cristo. Contudo, não podemos simplesmente aceitar essa falta de senso e responsabilidade na nossa congregação. Eu não posso simplesmente aceitar, porque quando leio o livro dos Apóstolos na Bíblia, percebo realmente o que é ser um cristão. Quando leio sobre os primeiros cristão, a sua calorosa união, o forte e puro amor que havia entre eles, me vem a mente um sentimento de tristeza, porque minha geração está longe demais para experimentar tal situação.
+
+A verdade é que há muito tempo a Assembleia de Deus perdeu sua essência. Eu não estou querendo ser saudosista, apenas estou dizendo a verdade. E a verdade é essa, seja ela agradável ou não aos olhos de quem a vê. Seja quem estiver lendo, nunca foi tão necessário buscar a Deus, pois estamos vivendo tempos obscuros para a igreja.
