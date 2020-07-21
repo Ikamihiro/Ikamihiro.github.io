@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Os Novos Desafios"
+title:  "A Assembleia de Deus e a Pandemia de COVID-19"
 date:   2020-07-21 16:07:20
 categories: reflexoes
 ---
